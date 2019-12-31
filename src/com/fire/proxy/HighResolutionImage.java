@@ -1,3 +1,5 @@
+import java.net.URL;
+
 public class HighResolutionImage implements Image {
 
     private URL imageURL;
